@@ -1,6 +1,6 @@
 package Anumala;
 public class Anumala{
-  public void printer(){
+  void printer(){
     System.out.println("Dheeraj is accessing this method");
     print();
   }
