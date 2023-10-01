@@ -1,8 +1,5 @@
 package current;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-
 public class Dheeraj {
   public static void main(String[] args){
     
@@ -10,8 +7,6 @@ public class Dheeraj {
     int j = 0;
     int k = 10;
 
-    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    String str;
     try{
       System.out.println((i+k)/j);
     }
